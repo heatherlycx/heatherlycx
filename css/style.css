@@ -571,7 +571,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.05);
 }
 
-#fh5co-services,
+#fh5co-travel,
 #fh5co-started,
 #fh5co-testimonial,
 #fh5co-blog,
@@ -584,7 +584,7 @@ h1, h2, h3, h4, h5, h6, figure {
   clear: both;
 }
 @media screen and (max-width: 768px) {
-  #fh5co-services,
+  #fh5co-travel,
   #fh5co-started,
   #fh5co-testimonial,
   #fh5co-blog,

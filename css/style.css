@@ -1286,6 +1286,13 @@ h1, h2, h3, h4, h5, h6, figure {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+
+#fh5co-footer .fh5co-widget h4 {
+  margin-bottom: 10px;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
+
 #fh5co-footer .copyright .block {
   display: block;
 }
